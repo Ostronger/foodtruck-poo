@@ -1,0 +1,12 @@
+# Fichiers générés par Maven
+target/
+
+# Anciens fichiers compilés Java
+bin/
+*.class
+
+# Fichiers propres à macOS
+.DS_Store
+
+# Configuration locale de VS Code
+.vscode/
